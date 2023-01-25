@@ -10,6 +10,8 @@
 
 <p align="left"> <a href="https://twitter.com/udaypra04878992" target="blank"><img src="https://img.shields.io/twitter/follow/udaypra04878992?logo=twitter&style=for-the-badge" alt="udaypra04878992" /></a> </p>
 
+- 🔭 I’m currently in Noida Uttar Pradesh India
+
 - 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **HTML,CSS,JavaScript,SQL**
