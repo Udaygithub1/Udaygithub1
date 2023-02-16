@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **pratapuday493@gmail.com**
 - 💬 <a href="https://drive.google.com/file/d/1sUBMXoWuLdkyfVFupayhvnTeTWX4N4-h/view?usp=share_link">My Resume</a>
-- 📫 <a href="https://bucolic-concha-5ec8c9.netlify.app/">My Portfolio</a>
+- 📫 <a href="https://exquisite-donut-a162cb.netlify.app/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
