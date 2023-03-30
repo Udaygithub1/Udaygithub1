@@ -1,7 +1,11 @@
 ![logo](https://github.com/Udaygithub1/Udaygithub1/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Uday Pratap Singh</h1>
 <h3 align="center">Aspiring Full Stack Web Developer | Technical Support Engineer</h3>
-<p align="center">Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.</p>
+<p align="center">Motivated and innovative aspiring Technical Support representative adept in resolving
+network issues. Competent in troubleshooting and
+responding to customers. Seeking for the role of Tech
+Support Engineer to work for betterment of company
+and foster returns.</p>
 <img align="right" alt="coding" width="350" height="400" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=udaygithub1&label=Profile%20views&color=0e75b6&style=flat" alt="udaygithub1" /> </p>
