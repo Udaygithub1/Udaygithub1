@@ -1,6 +1,6 @@
 ![logo](https://github.com/Udaygithub1/Udaygithub1/blob/main/Blue%20Geometric%20Technology%20LinkedIn%20Banner%20(1).png)
 <h1 align="center">Hi 👋, I'm Uday Pratap Singh</h1>
-<h3 align="center">Aspiring Full Stack Web Developer | Technical Support Engineer</h3>
+<h3 align="center">Aspiring Web Developer | Technical Support Engineer</h3>
 <p align="center">Motivated and innovative aspiring Technical Support representative adept in resolving
 network issues. Competent in troubleshooting and
 responding to customers. Seeking for the role of Tech
@@ -18,11 +18,11 @@ and foster returns.</p>
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML,CSS,JavaScript,SQL**
+- 💬 Ask me about **HTML,CSS,JavaScript,SQL,Linux,shell scripting **
 
 - 📫 How to reach me **pratapuday493@gmail.com**
-- 💬 <a href="https://drive.google.com/file/d/1sUBMXoWuLdkyfVFupayhvnTeTWX4N4-h/view?usp=share_link">My Resume</a>
-- 📫 <a href="https://exquisite-donut-a162cb.netlify.app/">My Portfolio</a>
+- 💬 <a href="https://drive.google.com/file/d/19T5h8YuFgkUgxaEFWKTQo3uh4G7fszub/view?usp=share_link">My Resume</a>
+- 📫 <a href="https://udaygithub1.github.io/">My Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
